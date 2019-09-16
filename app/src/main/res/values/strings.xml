@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto Libreria</string>
+    <string name="item_menu1">Donacion</string>
+    <string name="item_menu2">Intercambio</string>
+    <string name="item_menu3">Reserva</string>
+    <string name="item_menu4">Prestamo</string>
+    <string name="item_menu5">Devolucion</string>
+    <string name="title_activity_donacion">Donacion</string>
+    <string name="title_activity_intercambio">Intercambio</string>
+    <string name="title_activity_reserva">Reserva</string>
+    <string name="title_activity_prestamo">Prestamo</string>
+    <string name="title_activity_devolucion">Devolucion</string>
+</resources>
